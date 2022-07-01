@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/MessageEncryptor/app/src/main/res/drawable/button_background.xml" value="0.1905" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/MessageEncryptor/app/src/main/res/drawable/choice_ask_dialog_background.xml" value="0.1905" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/MessageEncryptor/app/src/main/res/drawable/edit_text_background.xml" value="0.1905" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/MessageEncryptor/app/src/main/res/drawable/ic_baseline_content_copy_24.xml" value="0.1905" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/MessageEncryptor/app/src/main/res/drawable/message_background.xml" value="0.1905" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/MessageEncryptor/app/src/main/res/drawable/round_dialog_back.xml" value="0.1905" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/MessageEncryptor/app/src/main/res/drawable/toolbar_background.xml" value="0.1905" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/MessageEncryptor/app/src/main/res/layout/activity_about.xml" value="0.1" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/MessageEncryptor/app/src/main/res/layout/activity_display.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/MessageEncryptor/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/MessageEncryptor/app/src/main/res/layout/activity_splas_screen.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/MessageEncryptor/app/src/main/res/layout/choice_ask_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/MessageEncryptor/app/src/main/res/layout/custom_toolbar.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/MessageEncryptor/app/src/main/res/layout/fragment_options_dialog.xml" value="0.4" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/MessageEncryptor/app/src/main/res/layout/password_asking_layout.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/MessageEncryptor/app/src/main/res/layout/password_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/MessageEncryptor/app/src/main/res/menu/display_menu.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/MessageEncryptor/app/src/main/res/menu/toolbar_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
